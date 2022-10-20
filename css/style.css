@@ -1,0 +1,119 @@
+
+body{
+	background-color: rgba(142, 179, 248, 0.726);
+}
+
+.main__cheapter{
+	font-family: "lobster", 'Times New Roman', Times, serif;
+	font-size: 35px;
+	color: rgb(33, 33, 253);
+	text-shadow: cornflowerblue 5px 8px 5px;
+	margin: 20px 0px 20px 450px;
+	letter-spacing: 7px   ;
+}
+
+.secondary-title{
+	letter-spacing: -35px;
+	margin-left: 260px;
+}
+
+.body__text{
+	text-align: center;
+	text-shadow: -5px 1px 5px hotpink, 8px 9px 7px mediumblue;
+}
+
+.head__text{
+	text-align: justify;
+	font-style: oblique;
+}
+
+.fotter__text{
+	color: rgba(65, 105, 225, 0.5);
+	text-align: right;
+	font-weight: 700;
+}
+
+.monster{
+	text-shadow: 12px  6px black;
+	text-transform: capitalize;
+}
+
+.krasavica{
+	font-weight: 900;
+}
+
+	/*не работает text-dicoration*/
+.also{
+	font-family: "Montserrat", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', 'Courier New', Courier, monospace;
+	font-style: italic;
+	text-decoration: underline;
+	color: rgb(58, 56, 56);
+	font-size: 20px;
+	margin: 10px 200px 0px 50px;  
+}
+
+.content{
+	font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', cursive;
+	margin: 60px;
+}
+
+.mark{
+	background-color: rgb(255, 111, 111);
+	color: aliceblue;
+}
+
+.under{
+	text-decoration: underline rgb(167, 87, 247) 5px;
+	font-family: "Lobster";
+	font-style: italic;
+}
+
+.img__content{
+	margin: -166px 0px 0px 0px;
+}
+
+h2{
+	font-family: "Mulish";
+	font-size: 25px;
+	color: rgb(0, 88, 0);
+	margin: 50px 0px 30px 200px;
+	text-shadow: 5px 5px 5px rgb(125, 209, 0);
+}
+
+main{
+	margin: 20px 0px 0px 300px;
+}
+
+.aladin{
+	color: rgb(92, 189, 189);
+	text-decoration: overline;
+	text-transform: uppercase;
+	line-height: 2;
+}
+
+.nemo{
+	color: rgb(120, 0, 206);
+	text-decoration: underline;
+	text-transform: lowercase;
+}
+
+.korol__lev{
+	color: rgb(156, 0, 0);
+}
+
+.rapuncel{
+	text-indent: 20px;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+}
+
+main p{
+	padding: 0px 835px 0px 300px;
+	margin: -220px 0px 195px 0px;
+	font-family: "lato";
+	font-size: 20px;
+}
+
+.botton__text div{
+	margin-bottom: 30px; 
+}
